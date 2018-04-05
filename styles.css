@@ -1,0 +1,23 @@
+/* styles for personality page */
+
+/* main styles */
+body {
+    font-family: arial;
+}
+
+.wrapper {
+    width: 50%;
+    margin: auto;
+}
+
+/* component styles */
+.banner {
+    width: 100%;
+}
+
+/* element styles */
+h1 {
+    text-align: center;
+    font-size: 2em;
+    text-shadow: 3px 3px lightgrey;
+}
